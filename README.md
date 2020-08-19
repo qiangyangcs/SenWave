@@ -1,5 +1,5 @@
 # SenWave: The public sentimental analysis dataset SenWave for Covid-19 research
-This dataset contains the unlabeled tweet IDs and labeled tweets used for sentimental analysis about Covid-19. The labeled tweets were organized in three languages (English and Arabic both with 10K and Chinese Weibo) while the unlabeled tweet IDs were represents with only ID to comply with Twitter’s Terms of Service in five languages (English, Arabic, Spanish, French, and Italian). In order to make use of the unlabeled data as much as possible, we utilize Google translate(https://translate.google.com/) to translate the labeled English tweets into Spanish, French, and Italian. The translated tweets are in good quality after a large number of observations. The data was collected from March 1, 2020 with Twint(https://github.com/twintproject/twint). These data is only released for non-commercial research use. 
+This dataset contains the unlabeled tweet IDs and labeled tweets used for sentimental analysis about Covid-19. The labeled tweets were organized in three languages (English and Arabic both with 10K and Chinese Weibo with about 22K) while the unlabeled tweet IDs were represents with only ID to comply with Twitter’s Terms of Service in five languages (English, Arabic, Spanish, French, and Italian). In order to make use of the unlabeled data as much as possible, we utilize Google translate(https://translate.google.com/) to translate the labeled English tweets into Spanish, French, and Italian. The translated tweets are in good quality after a large number of observations. The data was collected from March 1, 2020 with Twint(https://github.com/twintproject/twint). These data is only released for non-commercial research use. 
 
 The associated paper to this repository can be found here: SenWave: Monitoring the Global Sentiments under the COVID-19 Pandemic.
 
@@ -19,7 +19,7 @@ Note: If you want to use the labled tweets, please mail to qiang.yang[AT]kaust[d
 This dataset complies with Twitter’s Terms of Service and is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License (CC BY-NC-SA 4.0). If you use this dataset, this means that you agree with the license and term.
 
 # Statistics Summary
-The total number of tweets is 104, 830, 630. The tweets will be updated furthermore. In addition, the unlabeded Chinese Weibo data will be released soon whose size is about 1 million.
+The total number of tweets is 104, 830, 630. The tweets will be updated furthermore. In addition, the unlabeded Chinese data will be released soon whose size is about 1 million.
 The statistics of five language tweets are shown in the following table:
 
 
