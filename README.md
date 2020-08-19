@@ -42,4 +42,4 @@ The statistics of five language tweets are shown in the following table:
 
 For Chinese Weibo dataset, please cite the paper "Sentiment Analysis on Chinese Weibo regarding COVID-19". Xiaoting Lyu, Zhe Chen, Di Wu, Wei Wang. (Citation info will be released soon.)
 
-Here, we thanks for the contributions of Prof. Huang in Tsinghua University.
+Here, we thanks for the contribution of Prof. Huang in Tsinghua University.
