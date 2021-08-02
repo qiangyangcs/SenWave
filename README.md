@@ -40,6 +40,17 @@ The statistics of five language tweets are shown in the following table:
   year={2020}  
 }
 
+@article{zhang2021rise,
+  title={Rise and fall of the global conversation and shifting sentiments during the COVID-19 pandemic},
+  author={Zhang, Xiangliang and Yang, Qiang and Albaradei, Somayah and Lyu, Xiaoting and Alamro, Hind and Salhi, Adil and Ma, Changsheng and Alshehri, Manal and Jaber, Inji Ibrahim and Tifratene, Faroug and others},
+  journal={Humanities and Social Sciences Communications},
+  volume={8},
+  number={1},
+  pages={1--10},
+  year={2021},
+  publisher={Palgrave}
+}
+
 For Chinese Weibo dataset, please cite the paper "Sentiment Analysis on Chinese Weibo regarding COVID-19". Xiaoting Lyu, Zhe Chen, Di Wu, Wei Wang. (Citation info will be released soon.)
 
 Here, we thanks for the contribution of Prof. Huang in Tsinghua University.
