@@ -58,4 +58,6 @@ For Chinese Weibo dataset, please cite the paper "Sentiment Analysis on Chinese 
 
 Here, we thanks for the contribution of Prof. Huang in Tsinghua University.
 
+# Scope of data usage
+
 Note that our dataset and analyses can be applied to similar tasks or events which need the fine-grained emotions, like stock market forecast, and public opinion mining.  Comparative studies can also be done to analyze the difference between COVID-19 Twitter data and regular social media data.
