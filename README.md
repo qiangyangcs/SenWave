@@ -1,6 +1,9 @@
 # SenWave: The public sentimental analysis dataset SenWave for Covid-19 research
 This dataset contains the unlabeled tweet IDs and labeled tweets and Weibo used for sentimental analysis about Covid-19. The labeled tweets were organized in three languages (English and Arabic both with 10K and Chinese Weibo with about 22K) while the unlabeled tweet IDs were represented with only IDs to comply with Twitter’s Terms of Service and Weibo's Terms of Service in six languages (English, Arabic, Spanish, French, and Italian in Tweets and Chinese in Weibo data). In order to make use of the labeled data as much as possible, we utilize Google translate(https://translate.google.com/) to translate the labeled English tweets into Spanish, French, and Italian. The translated tweets are in good quality after a large number of observations. The twitter data was collected from March 1, 2020 with Twint(https://github.com/twintproject/twint) while the Weibo data was collected from January 10. These data is only released for non-commercial research use. 
 
+*********GOOD NEWS*************
+ Up to now, there are more than 68 users from 20 countries such as USA, China, India, Singapore, Italy, Saudi Arabia, etc., applying for the usage of our dataset and 26 citations for the arxiv paper.
+
 The associated paper to this repository can be found here: SenWave: Monitoring the Global Sentiments under the COVID-19 Pandemic.
 
 # Data Organization
@@ -54,3 +57,5 @@ The statistics of five language tweets are shown in the following table:
 For Chinese Weibo dataset, please cite the paper "Sentiment Analysis on Chinese Weibo regarding COVID-19". Xiaoting Lyu, Zhe Chen, Di Wu, Wei Wang. (Citation info will be released soon.)
 
 Here, we thanks for the contribution of Prof. Huang in Tsinghua University.
+
+Note that our dataset and analyses can be applied to similar tasks or events which need the fine-grained emotions, like stock market forecast, and public opinion mining.  Comparative studies can also be done to analyze the difference between COVID-19 Twitter data and regular social media data.
